@@ -16,9 +16,9 @@ git diff
 
 git config --global user.username <USerNamE>
 
-git remote add origin <URLFROMGITHUB> //en windows esto automático
+git remote add origin <URLFROMGITHUB> //en windows si tenemos github para windows esto es automático
 
-git remote set-url origin <URLFROMGITHUB> //en windows hay que poner setear solamente la url
+git remote set-url origin <URLFROMGITHUB> //en windows si tenemos github para windows esto es hay que poner setear solamente la url
 
 git push origin master
 
